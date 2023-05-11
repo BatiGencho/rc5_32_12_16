@@ -1,2 +1,4 @@
-# rc5_32_12_16
-rc5_32_12_16 encryption algorithm
+# rc5-32/12/16 implementation
+
+This is a symmetrical encryption algorithm.
+

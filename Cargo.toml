@@ -1,0 +1,10 @@
+[package]
+name = "rc5_32_12_16"
+version = "0.1.0"
+authors = ["Evgeni Pirianov"]
+edition = "2021"
+
+[dependencies]
+hex = "0.4.2"
+thiserror = "1.0.40"
+displaydoc = "0.2.3"
